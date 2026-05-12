@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dhormo-bujhe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dhormo Bujhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhormo-bujhe/) |
+| **Get License** | [Request Licensing for Dhormo Bujhe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhormo-bujhe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শুকনো মনের শূন্য খাতায় তোমার ছবি আঁকি
+> চোখ বুজলেই বুকের ভেতর শুধু তোমায় ডাকি
+> ভোরের আলো আসুক নেমে তোমার দুহাত ধরে
+> আমার প্রহর কাটুক শুধু তোমার প্রেমের ঘোরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
