@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dhormo Bujhe
+
+This log tracks the cryptographic history and versioning for the song **Dhormo Bujhe** (dhormo-bujhe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T10:59:33.784898 | `v1` | `c1f351765fd0df91e832b4eb1a69a130f3e62c09f7ba607170b8c14fab20988d` | `fd74c31e650d3aade682a71d11ae38b6aaaac5cc654d11e8481a9efdbd92551b` | `2026-05-12_dhormo-bujhe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
